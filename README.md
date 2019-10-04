@@ -4,7 +4,7 @@ This is the codes for the competition https://tianchi.aliyun.com/competition/ent
 
 ## About codes
 
-### LINCENSE
+### LICENSE
 
 Most of these codes come from @liangxu chen (https://github.com/liangxuCHEN), including the genetic algorithm, worker class. I am not sure whether I correctly upload the LICENSE (This is my first time to heavily use others codes. So please let me know if I didn't upload enough information about copyright.)
 
