@@ -35,10 +35,15 @@ so that the worker can get a better placement layout.
 
 
 ## Reference
-[1] Gomes A M, Oliveira J F. Solving irregular strip packing problems by hybridising simulated annealing and linear programming[J]. European Journal of Operational Research, 2006, 171(3): 811-829.
+[1] Gomes A M, Oliveira J F. Solving irregular strip packing problems by hybridising simulated annealing and linear programming[J]. 
+European Journal of Operational Research, 2006, 171(3): 811-829.
+
 [2] Burke E K, Hellier R S R, Kendall G, et al. Complete and robust no-fit polygon generation for the irregular stock cutting problem[J]. European Journal of Operational Research, 2007, 179(1): 27-49.
+
 [3] Bennell J A, Oliveira J F. The geometry of nesting problems: A tutorial[J]. European Journal of Operational Research, 2008, 184(2): 397-415.
+
 [4] Gomes A M, Oliveira J F. A 2-exchange heuristic for nesting problems[J]. European Journal of Operational Research, 2002, 141(2): 359-370.
+
 [5] Bennell J A, Dowsland K A. Hybridising tabu search with optimisation techniques for irregular stock cutting[J]. Management Science, 2001, 47(8): 1160-1172.
 
 
