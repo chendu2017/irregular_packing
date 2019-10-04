@@ -4,7 +4,11 @@ This is the codes for the competition https://tianchi.aliyun.com/competition/ent
 
 ## About codes
 
+### LINCENSE
+
 Most of these codes come from @liangxu chen (https://github.com/liangxuCHEN), including the genetic algorithm, worker class. I am not sure whether I correctly upload the LICENSE (This is my first time to heavily use others codes. So please let me know if I didn't upload enough information about copyright.)
+
+### Revision
 
 For the purpose of efficiency, I changed some details to reduce the computation time by removing input part and output part, which are two important parts in an engineering project. Also, some unnecessary iterations are removed for efficiency. That may lead to the situation that these codes are just suitable for this competition and learning on irregular packing. Not very useful for engineer purpose.
 
@@ -18,7 +22,7 @@ The Compaction algorithm is proposed by [1]. A linear programming is used to des
 Why this compaction algorithm is needed? Because the initial layout is obtained by the genetic algorithm, in which the local objective is minimizing the length of used textile. However, getting a local optimal solution does not mean the whole layout is a global optimum. The compaction algorithm provides a possibility of compacting the current layout, although it is also
 possible that constraints generated from the current layout are conflicting. That is because the pieces are non-convex, so the feasible region described by these generated constraints is much smaller then truly feasible region. But this algorithm still has the potential!
 
-For reading materials are listed:
+Some reading materials are listed for further reading:
 
 [2] provides a heuristic to find out no-fit polygons when there is concavity, by "concavity" I mean polygons with shapes like letter "C". You need to put another piece into the letter "C". It's not a easy work, especially for the computer.
 
